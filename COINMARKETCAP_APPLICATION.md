@@ -63,7 +63,12 @@ OR
 https://raw.githubusercontent.com/mermaidnicheboutique-code/luxbin-quantum-internet/main/logo.png
 ```
 
-**8. Project Description:**
+**8. Twitter/X Handle:**
+```
+@LuxbinQuantum
+```
+
+**9. Project Description:**
 ```
 LUXBIN (LUX) is the world's first cryptocurrency backed by real quantum computing infrastructure. Using 445 qubits across 3 IBM quantum computers (ibm_fez, ibm_torino, ibm_marrakesh), LUXBIN generates true quantum randomness for tokenomics mechanisms including deflationary burns (3%), automatic holder rewards (2%), treasury buybacks (2%), and a quantum lottery (1%).
 

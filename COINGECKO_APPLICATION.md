@@ -39,7 +39,12 @@ https://github.com/mermaidnicheboutique-code/luxbin-quantum-internet
 The world's first cryptocurrency backed by 445 qubits on 3 IBM quantum computers. Deflationary burns, auto-rewards, and quantum lottery powered by real quantum entropy.
 ```
 
-**6. Project Description (Long - 500+ words):**
+**6. Twitter/X Handle:**
+```
+@LuxbinQuantum
+```
+
+**7. Project Description (Long - 500+ words):**
 ```
 LUXBIN (LUX) is the world's first cryptocurrency with intrinsic value backed by real quantum computing infrastructure. Unlike traditional cryptocurrencies that rely on pseudo-random number generation, LUXBIN uses quantum measurements from 3 IBM quantum computers (445 qubits total) to create true randomness that is physically impossible to predict or manipulate.
 
